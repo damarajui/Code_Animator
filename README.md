@@ -26,28 +26,16 @@ Code Animator is a powerful web application that allows users to create animated
 ## Cool Implementations
 
 1. Dynamic frame generation:
-```typescript:code-animator/src/services/animationEngine.ts
-startLine: 14
-endLine: 40
-```
+
 
 2. Real-time animation preview:
-```typescript:code-animator/src/components/AnimationPreview.tsx
-startLine: 26
-endLine: 80
-```
+
 
 3. Multi-format export functionality:
-```typescript:code-animator/src/services/exportService.ts
-startLine: 23
-endLine: 57
-```
+
 
 4. GIF export with dynamic sizing:
-```typescript:code-animator/src/services/exportService.ts
-startLine: 71
-endLine: 147
-```
+
 
 ## Getting Started
 
