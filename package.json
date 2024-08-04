@@ -3,16 +3,26 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ffmpeg/ffmpeg": "^0.12.10",
+    "@monaco-editor/react": "^4.6.0",
+    "@svgdotjs/svg.js": "^3.2.4",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.104",
-    "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
+    "axios": "^1.7.3",
+    "gif.js": "^0.2.0",
+    "highlight.js": "^11.10.0",
+    "html-to-image": "^1.11.11",
+    "html2canvas": "^1.4.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.0",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.1.12",
+    "svgdom": "^0.1.19",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
@@ -39,5 +49,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/gif.js": "^0.2.2",
+    "@types/highlight.js": "^10.1.0",
+    "@types/html2canvas": "^1.0.0",
+    "@types/react": "^18.3.3",
+    "@types/styled-components": "^5.1.34",
+    "@types/svgdom": "^0.1.2"
   }
 }
